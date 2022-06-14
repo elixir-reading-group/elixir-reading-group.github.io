@@ -9,8 +9,8 @@ last_name: Reading Group
 email: 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   
-footer_text: >
-    
+footer_text: <a href="https://github.com/elixir-reading-group/elixir-reading-group.github.io">Edit on GitHub.</a>&nbsp;
+
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website, reading, group, interpretability, explainability, XAI, explainable AI, machine learning, information, retrieval, IR, ranking, XIR, explainable information retrieval  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
