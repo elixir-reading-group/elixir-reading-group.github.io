@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 # profile:
 #   align: right
@@ -17,4 +17,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Add description here.
+
+## mailing list
+You can subscribe to our mailing list via [this link](https://www.l3s.de/mailman/listinfo/elixir-reading-group).
+
+
+
