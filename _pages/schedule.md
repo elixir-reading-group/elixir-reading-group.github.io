@@ -7,4 +7,13 @@ nav: true
 nav_order: 2
 ---
 
-ToDo: Add schedule here.
+#### 30. June 2022
+Topic: TBA
+
+Presenter: TBA
+
+#### 23. June 2022
+Topic: TBA
+
+Presenter: TBA
+
