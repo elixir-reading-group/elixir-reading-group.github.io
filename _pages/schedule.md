@@ -7,6 +7,9 @@ nav: true
 nav_order: 2
 ---
 
+#### 14. July 2022
+SIGIR & ICTIR break.
+
 #### 07. July 2022
 
 Topic: TBA
