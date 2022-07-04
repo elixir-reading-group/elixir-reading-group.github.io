@@ -8,10 +8,10 @@ nav_order: 2
 ---
 
 #### 28. July 2022
-ACL'22 Gong-Show: 5-min short presentations of relevant papers/presentations from ACL'22. If you would like to present something
+ACL'22 Gong-Show: 5-min short presentations of relevant papers/presentations from ACL'22. If you would like to present a paper, please ping `idahl[at]l3s.de`.
 
 #### 21. July 2022
-SIGIR'22 Gong-Show: 5-min short presentations of peoples favorite papers/presentations from SIGIR'22. If you would like to present something
+SIGIR'22 Gong-Show: 5-min short presentations of peoples favorite papers/presentations from SIGIR'22. If you would like to present a paper, please ping `idahl[at]l3s.de`.
 
 #### 14. July 2022
 SIGIR & ICTIR break.
@@ -19,7 +19,7 @@ SIGIR & ICTIR break.
 #### 07. July 2022
 
 Topic: TBA
-Presenter: Avishek Anand? (Tentative)
+Presenter: Avishek Anand? (Tentative.)
 
 #### 30. June 2022
 
