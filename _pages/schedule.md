@@ -17,9 +17,7 @@ SIGIR'22 Gong-Show: 5-min short presentations of peoples favorite papers/present
 SIGIR & ICTIR break.
 
 #### 07. July 2022
-
-Topic: TBA
-Presenter: Avishek Anand? (Tentative.)
+Nothing.
 
 #### 30. June 2022
 
