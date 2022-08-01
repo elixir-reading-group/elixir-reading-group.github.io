@@ -7,6 +7,15 @@ nav: true
 nav_order: 2
 ---
 
+#### 19. August 2022
+TBA
+
+#### 11. August 2022
+TBA
+
+#### 04. August 2022
+Another Gong-Show: 5-min short presentations of relevant papers/presentations from recent conferences.
+
 #### 28. July 2022
 ACL'22 Gong-Show: 5-min short presentations of relevant papers/presentations from ACL'22. If you would like to present a paper, please ping `idahl[at]l3s.de`.
 
