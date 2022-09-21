@@ -7,7 +7,14 @@ nav: true
 nav_order: 2
 ---
 
+#### 20. October 2022
+Topic: Instance Attribution (M.Sc. defense)
 
+<details><summary>Abstract</summary>
+TBA
+</details>
+
+Presenter: Felix Meyer
 
 #### 15. September 2022
 Topic: Deconstructing Ranking Abilities of Language Models (M.Sc. defense)
