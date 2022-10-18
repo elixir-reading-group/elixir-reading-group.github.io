@@ -8,10 +8,10 @@ nav_order: 2
 ---
 
 #### 20. October 2022
-Topic: Instance Attribution (M.Sc. defense)
+Topic: Instance Attribution in Deep Learning(M.Sc. defense)
 
 <details><summary>Abstract</summary>
-TBA
+Determining training instances that influence the prediction of a machine learning model is intuitively meaningful. Explaining the effect of training data on neural network predictions is an essential tool for model debugging. Several instance attribution methods for finding influential training examples, including influence functions, GradDot, GradCos, representer point selection, and TracIn, estimate the most influential training instances for a test prediction. This thesis evaluates the current state of instance attribution and its methods in deep learning, specifically for image classification models. We developed an instance-attribution toolkit that implements these instance attribution methods with a unified API. In a series of experiments, we show that instance attribution methods are highly capable of retrieving the most helpful and most harmful training instance given a test query. In addition, we test these methods on downstream tasks, such as identifying mislabelled or poisoned training data instances, and answer the question of which method should be used in which scenario. We also explore the challenge of evaluating instance attribution methods and validate these algorithms with minimal requirement tests.
 </details>
 
 Presenter: Felix Meyer
