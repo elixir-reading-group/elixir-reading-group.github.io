@@ -63,9 +63,6 @@ SIGIR'22 Gong-Show: 5-min short presentations of peoples favorite papers/present
 #### 14. July 2022
 SIGIR & ICTIR break.
 
-#### 07. July 2022
-Nothing.
-
 #### 30. June 2022
 
 Topic: Supervised Contrastive Learning Approach for Contextual Ranking
