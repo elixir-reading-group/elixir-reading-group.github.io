@@ -7,6 +7,15 @@ nav: true
 nav_order: 2
 ---
 
+#### 03. November 2022
+Invited Talk: AutoXAI: A Framework to Automatically Select the Most Adapted XAI Solution
+
+<details><summary>Abstract</summary>
+ A large number of XAI (eXplainable Artificial Intelligence) solutions have been proposed in recent years. Recently, thanks to new XAI evaluation metrics, it has become possible to compare these XAI solutions. However, selecting the most relevant XAI solution among all this diversity is still a tedious task, especially if a user has specific needs and constraints. In this paper, we propose AutoXAI, a framework that recommends the best XAI solution and its hyperparameters according to specified XAI evaluation metrics while considering the user's context (dataset, machine learning model, XAI needs and constraints). It adapts approaches from context-aware recommender systems on one side and strategies of optimization and evaluation from AutoML (Automated Machine Learning) on the other. Through two use cases, we show that AutoXAI recommends XAI solutions adapted to the user's needs with the best hyperparameters matching the user's constraints.
+</details>
+
+Presenter: Robin Cugny
+
 #### 20. October 2022
 Topic: Instance Attribution in Deep Learning(M.Sc. defense)
 
