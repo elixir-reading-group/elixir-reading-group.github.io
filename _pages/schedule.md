@@ -7,6 +7,27 @@ nav: true
 nav_order: 2
 ---
 
+
+#### 01. December 2022
+
+1) Pre-Training for non-English Neural Retrieval Models
+
+<details><summary>Abstract</summary>
+In this Thesis we aim to improve non-English information retrieval systems and tackle the lack of non English information retrieval training data. Our focus in this work is on the German language. For this purpose, we propose to first generate a dataset from the German Wikipedia and then use it to pre-train a model that can be fine-tuned with a small dataset and used directly in information retrieval systems. Our model is built on top of gBERT(the German version in this work) which means that during training we initialize our model with gBERT's parameters, which saves a lot of time because BERT already has the ability to extract features from text and during our training the model just uses these features to find similarities between different documents. Our method is considered as unsupervised learning because the dataset we use is generated in an unsupervised manner. Our work is based on the assumption that training an information retrieval model on a large amount of unsupervised data before adapting it to a small amount of well-structured data could improve the performance of the model. The results of our work show evidences in favor of this assumption, as we observe that our model did improve slightly over the model that did not have this pre-training step. It would therefore be advantageous to use our approach in non-English retriever for language with lack of training data. 
+</details>
+
+Presenter: Alex Walker Mboutchouang Ghomsi
+
+
+2) A Visualized Counterfactual-Annotation Tool for Language Models Assessment
+
+<details><summary>Abstract</summary>
+In a world, where language models are becoming increasingly complex, people developed tools to help users assess the risk the models might suffer from under-deployment. SparCAssist is one of the risk-assessment tools leveraging counterfactual explanations to expose models' risky behavior in counterfactual instances. For the SparCAssist, however, there still remains improvement potential to help people generate counterfactual instances that are human-understandable more efficiently. In this work, I propose a visualization enhancement of the SparCAssist to help people generate better counterfactual instances and a better understanding of the model's behavior. The thesis starts with a brief tour of foundational knowledge required by introducing the SparcAssist including ExPred, an interpretable-by-design language-classification model used in SparCAssist, approaches to generate counterfactual instances like Hotflip and Masked-Language-Model. Then, I will go into the implementation of my enhancement by specifically introducing the visual presentation. Finally, I evaluate my approach by conducting a set of user experiments proving that my visualization enhancement improves the efficacy of generating counterfactual instances of interest and helps users to better understand the decisions of the models.
+</details>
+
+Presenter: Liam Stewart Boyle
+
+
 #### 03. November 2022
 Invited Talk: AutoXAI: A Framework to Automatically Select the Most Adapted XAI Solution
 
